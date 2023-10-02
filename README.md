@@ -1,7 +1,5 @@
 #Hi!
 
-
-
 <div align="center">
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VincenzoRallo/VincenzoRallo/output/github-contribution-grid-snake.svg">  
 <a href="https://github.com/VincenzoRallo"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=VincenzoRallo&hide=&count_private=true&theme=transparent&hide_border=true&show_icons=true" alt="Vincenzo's GitHub stats"/></a>
